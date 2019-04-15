@@ -26,7 +26,7 @@ Here are the **instructions**!
 
 ##### Hint: you can get some ideas on the best practice lists in the course content!
 
-You will use the **OWASPideas.pdf** file that is provided in the activity to fill out your checklist of suggestions to secure the code!
+You will use the **OWASPhero.pdf** file that is provided in the activity to fill out your checklist of suggestions to secure the code!
 
 Here is the list of the pages that you will need to analyze and provide suggestions for!
 

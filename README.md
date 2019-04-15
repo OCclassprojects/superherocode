@@ -33,13 +33,12 @@ Here is the list of the pages that you will need to analyze and provide suggesti
 * Login
 * Cookies
 * XML entities
-* Authentication
 * GET/POST requests
 * URL generation
-* Dynamic SQL queries
+* SQL queries
 * Database Encryption
-* Framework (should I use this?)
-* Locking down your web app environment!
+* Framework vulnerabiliteis
+* Lock down your web app environment!
 
  
 Make sure and keep a copy of your work for your mentors!

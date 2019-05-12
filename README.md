@@ -40,6 +40,5 @@ Here is the list of the pages that you will need to analyze and provide suggesti
 * Framework vulnerabiliteis
 * Lock down your web app environment!
 
- 
-Make sure and keep a copy of your work for your mentors!
+Remember that you will be evaluated by your peers on your understanding of how to secure your web application!
 
